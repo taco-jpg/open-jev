@@ -1,0 +1,3 @@
+{"state":"Customer has opened 5 urgent tickets, usage fell 62%, and renewal is in 14 days.","decisions":[{"key":"churn_risk","question":"What is the customer's churn risk?","options":["low","medium","high"]},{"key":"escalate","question":"Should customer success escalate now?","options":["no","yes"]}],"labels":[2,1]}
+{"state":"The cardholder reports an unfamiliar cash withdrawal at 02:15.","decisions":[{"key":"intent","question":"Route the support request.","options":["cash_withdrawal","card_payment","cash_withdrawal_dispute"]}],"labels":[2]}
+
